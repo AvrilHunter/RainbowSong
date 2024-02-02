@@ -1,3 +1,3 @@
 # RainbowSong
 
-Song about rainbows in the key of c-major
+Song about rainbows in the key of c-major!
