@@ -1,6 +1,6 @@
 # RainbowSong
 
-Song about rainbows in the key of c-major!
+Song about rainbows in the key of c-major! But is it....?
 
 Now adding a new line
 
