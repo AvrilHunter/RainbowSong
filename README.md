@@ -4,6 +4,8 @@ Song about rainbows in the key of c-major!
 
 Now adding a new line
 
+Again adding a new line at 7 to see what it does below ===NEW
+
 If I added more code into line 7 then does it make all of the below not look like a good change?
 
 I am adding more information on 7th Feb 
