@@ -11,7 +11,7 @@ Now I am going to edit this again but in VSC
 
 I think I may need to do double spacing for it to show as a new line on Github
 
-I have changed the text on this line - lets see if I can merge it later?
+I have changed the text on this line - lets see if I can merge it later? I edited manually
 
 
 
