@@ -17,6 +17,7 @@ moved it down one extra line.
 
 function thisIsAFunction() {
 console.log("I don't want to display this")
+
 console.log("a second line of data")
 }
 
