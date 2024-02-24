@@ -15,12 +15,13 @@ I have changed the text on this line - lets see if I can merge it later? I edite
 
 moved it down one extra line.
 
-const thisIsAFunction = ()=>{
-console.log("Can I type this")
+function thisIsAFunction() {
+console.log("I don't want to display this")
+console.log("a second line of data")
 }
 
 const addData = [9,10,6,4]
-const longer = addData.push(5)
+const longer = addData.push(5,6)
 
 
 
